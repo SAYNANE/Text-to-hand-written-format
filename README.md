@@ -1,6 +1,6 @@
 # Text-to-hand-written-format
 #HTML code
-<html>    
+<html>   
 <body>       
 <div class="centered-text">           
  <p><h2>SYSTEM GENERATED TEXT INTO HANDWRITTEN FORMAT</h2></p>       
